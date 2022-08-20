@@ -3,6 +3,6 @@
 ## Usage
 
 ```sh
-go install github.com/drobson03/fserve
+go install github.com/drobson03/fserve@latest
 fserve <directory> <port> 
 ```
